@@ -1,5 +1,5 @@
 {
-  "name": "nexttutorial",
+  "name": "navarrojuben",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^5.8.0",
-    "bcryptjs": "^2.4.3",
+   "bcryptjs": "^2.4.3",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.3",
     "mongoose": "6.11.1",
